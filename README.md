@@ -1,4 +1,4 @@
-mikrotik.png
+/../main/mikrotik.png
 
     :shipit: This my script config router MikroTik RB7... RB9... :+1:
 
