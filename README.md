@@ -1,9 +1,9 @@
 ![This is an image](mikrotik.png)
 
-# :cowboy_hat_face: This my script config router MikroTik RB7... RB9... :+1:
+# :cowboy_hat_face: This is my configuration script router MikroTik RB7... RB9... :+1:
 
 RouterMode:
 
 - WAN port is protected by firewall and enabled DHCP client
-- Wireless and Ethernet interfaces (except WAN port $provaiderInterface)
+- Wireless and Ethernet interfaces (except WAN port ether)
   are part of LAN bridge
