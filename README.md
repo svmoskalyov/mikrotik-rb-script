@@ -1,6 +1,6 @@
 ![This is an image](mikrotik.png)
 
-    :shipit: This my script config router MikroTik RB7... RB9... :+1:
+    :cowboy_hat_face: This my script config router MikroTik RB7... RB9... :+1: :thumbsup:
 
 RouterMode:
 
