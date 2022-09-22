@@ -1,6 +1,5 @@
 ![This is an image](mikrotik.png)
 
-
     :shipit: This my script config router MikroTik RB7... RB9... :+1:
 
 RouterMode:
