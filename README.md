@@ -2,16 +2,16 @@
 
 ## :man_beard: This is my configuration script router MikroTik RB7... RB9... :rocket:
 
-<sub>*I made this script for myself, according to my needs and with your use of this script, I bear no responsibility. Use at your own discretion.*</sub>
+:writing_hand:📝 <sub>*I made this script for myself, according to my needs and with your use of this script, I bear no responsibility. Use at your own discretion.*</sub>
 
 ---
 
 RouterMode:
 
 - WAN port is protected by firewall and enabled DHCP client
-- Wireless and Ethernet interfaces (except WAN port ether) are part of LAN bridge
+- Wireless and Ethernet interfaces (except WAN port ether1) are part of LAN bridge
 
-### Private Address Space [subnet calculator tool](https://subnet.im)
+### Private Address Space [subnet calculator tool](https://subnet.im) :eyes:
 
 > 10.0.0.0 - 10.255.255.255 (10/8 prefix)
 
@@ -21,7 +21,7 @@ RouterMode:
 
 ---
 
-### Configuration
+### Configuration :ninja:
 
 ... before ...
 
