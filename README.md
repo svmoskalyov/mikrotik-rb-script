@@ -11,7 +11,7 @@ RouterMode: 🛸
 - WAN port is protected by firewall and enabled DHCP client
 - Wireless and Ethernet interfaces (except WAN port ether1) are part of LAN bridge
 
-### Private Address Space 🔗[subnet calculator tool](https://subnet.im) :eyes:
+#### Private Address Space 🔗[subnet calculator tool](https://subnet.im) :eyes:
 
 - 10.0.0.0 - 10.255.255.255 (10/8 prefix)
 - 172.16.0.0 - 172.31.255.255 (172.16/12 prefix)
@@ -26,7 +26,7 @@ RouterMode: 🛸
 - connect a laptop to ether1 port
 - run to winbox and connect to router
   > (login: admin, password:(none))
-- run to terminal
+- launch a terminal on the router
 - reset configuration
 
 ```
