@@ -1,4 +1,4 @@
-![This is an image]
+![This is an image](mikrotik.png)
 
 # :cowboy_hat_face: This is my configuration script router MikroTik RB7... RB9... :+1:
 
