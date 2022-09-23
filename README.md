@@ -2,7 +2,9 @@
 
 ## :man_beard: This is my configuration script router MikroTik RB7... RB9... :rocket:
 
-<sub>I made this script for myself, according to my needs and with your use of this script, I bear no responsibility. Use at your own discretion.</sub>
+## <sub>I made this script for myself, according to my needs and with your use of this script, I bear no responsibility. Use at your own discretion.</sub>
+
+---
 
 RouterMode:
 
