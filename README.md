@@ -2,6 +2,8 @@
 
 ## :man_beard: This is my configuration script router MikroTik RB7... RB9... :rocket:
 
+<sub>I made this script for myself, according to my needs and with your use of this script, I bear no responsibility. Use at your own discretion.</sub>
+
 RouterMode:
 
 - WAN port is protected by firewall and enabled DHCP client
@@ -19,10 +21,11 @@ RouterMode:
 
 ### Configuration
 
-...before...
+... before ...
 
 - connect a laptop to ether1 port
-- run to winbox and connect to router (login: admin, password:(none))
+- run to winbox and connect to router
+  > (login: admin, password:(none))
 - run to terminal
 - reset configuration
 
@@ -40,11 +43,13 @@ RouterMode:
 /user set [find name="admin"] disable="yes"
 ```
 
-- file, change the [:global] settings to your own
+- file, change the :global settings to your own
 - all copy from file MikroTik-RB-my-script.ini and
   paste in to terminal, wait for end
 
-...after...
+... after ...
 
-- Check For Updates (System→Packages)
-- Upgrade Firmware (System→Routerboard)
+- check updates (System→Packages)
+- upgrade firmware (System→Routerboard)
+- change the clock, ntp settings to your own
+-
