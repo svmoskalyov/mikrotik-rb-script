@@ -2,32 +2,30 @@
 
 ## :man_beard: This is my configuration script router MikroTik RB7... RB9... :rocket:
 
-📝 <sub>*I made this script for myself, according to my needs and with your use of this script, I bear no responsibility. Use at your own discretion.*</sub>
+📝 <sub>_I made this script for myself, according to my needs and with your use of this script, I bear no responsibility. Use at your own discretion._</sub>
 
 ---
 
-🛸 RouterMode:
+RouterMode: 🛸
 
 - WAN port is protected by firewall and enabled DHCP client
 - Wireless and Ethernet interfaces (except WAN port ether1) are part of LAN bridge
 
-### Private Address Space [subnet calculator tool](https://subnet.im) :eyes:
+### Private Address Space 🔗[subnet calculator tool](https://subnet.im) :eyes:
 
-##### > 10.0.0.0 - 10.255.255.255 (10/8 prefix)
-
-##### > 172.16.0.0 - 172.31.255.255 (172.16/12 prefix)
-
-##### > 192.168.0.0 - 192.168.255.255 (192.168/16 prefix)
+- 10.0.0.0 - 10.255.255.255 (10/8 prefix)
+- 172.16.0.0 - 172.31.255.255 (172.16/12 prefix)
+- 192.168.0.0 - 192.168.255.255 (192.168/16 prefix)
 
 ---
 
-### Configuration ⚙️ 
+### Configuration ⚙️
 
-🪛 ... before ...
+🪛 ... before ... 🪛
 
 - connect a laptop to ether1 port
 - run to winbox and connect to router
-##### > (login: admin, password:(none))
+  > (login: admin, password:(none))
 - run to terminal
 - reset configuration
 
@@ -49,7 +47,7 @@
 - all copy from file MikroTik-RB-my-script.ini and
   paste in to terminal, wait for end
 
-🔨 ... after ...
+🔨 ... after ... 🔨
 
 - check updates (System→Packages)
 - upgrade firmware (System→Routerboard)
