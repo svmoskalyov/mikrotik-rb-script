@@ -34,7 +34,3 @@ RouterMode:
 3. Check For Updates (System→Packages)
 4. Upgrade Firmware (System→Routerboard)
 5. clearin System-Script-Environment
-
-# =================================
-#			GLOBAL
-=================================
